@@ -1,2 +1,8 @@
-# Sentiment-Checker
-- Predicted the sentiment (either positive or negative) of a blob of English text using ML - Role: Designing the neural network and Designing the Front-End - Technologies Involved: PHP, JQuery, HTML, CSS, XAMPP Apache Server
+# SentimentChecker
+A deep learning program developed in PHP to determine the sentiment (positive or negative) for the review of a movie or a TV show.
+
+For dataset go to this link:
+https://drive.google.com/drive/folders/1VVkiXKmuJgYHAZiCXLH7ksC67jIyT0Fh
+
+# License
+The code is licensed MIT and the tutorial is licensed CC BY-NC 4.0.
